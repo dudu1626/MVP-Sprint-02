@@ -14,6 +14,7 @@ Com essa utilização será possível ajudar a entender melhor os fatores de ris
 ---
 
 Este trabalho se divide em 2 partes:
+
 Parte 1 - Machine learning
 *Utilização de métodos clássicos - problema de classificação*
 
